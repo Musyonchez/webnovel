@@ -34,7 +34,7 @@ They are:
 
 [Yellow] - Gold 
 
-[Green] - Amethyst 
+[Green] - Platinum 
 
 ... 
 
@@ -197,8 +197,6 @@ With the initial jerkiness until it was moving skillfully.
 Ming Fan then opened the beast information. 
 
 [Name:] Alpha 
-
-[Race:] Mechanical Bird 
 
 [Attribute:] Mechanical 
 

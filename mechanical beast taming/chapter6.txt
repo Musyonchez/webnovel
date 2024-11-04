@@ -64,7 +64,7 @@ Then asked the robots to send the parts to the table.
 
 Using the on-air display and the hands on the side of the table he quickly connected the parts skillfully.
 
-What came out was a machinal bird body about half a meter tall with no combat power but a lot of auxiliary things.
+What came out was a mechanical bird body about half a meter tall with no combat power but a lot of auxiliary things.
 
 With skills such as microscope eyes, laser eyes, sharp wings, sharp talons, fire talons.
 
@@ -73,8 +73,6 @@ After that Alpha lay on the table Ming Fan extracted his brain and transplanted 
 A skill panel would be
 
 [Name:] Alpha
-
-[Race:] Mechanical Bird
 
 [Attribute:] Mechanical
 
@@ -132,7 +130,7 @@ Alot of attention was added like:
 
 4. Gatling Guns: The four back-mounted gatling guns are equipped with auto-reloading mechanisms, utilizing advanced stabilization systems for accuracy in mid-flight. The explosive bullets can be set to different fuses, enabling delayed detonations.
 
-5. Tail Feather Shield: The expanding tail feathers form a dense, interlocking shield, capable of withstanding high-caliber attacks and absorbing shock waves, while their reflective surface can deflect energy-based weaponry.
+5. Tail Feather Shield: The expanding tail feathers form a dense, interlocking shield, capable of withstanding high-caliber attacks and absorbing shock waves.
 
 6. Engine Boosters: The micro-thrusters on its body and under its wings are powered by a hybrid propulsion system, providing both silent hover capabilities and extreme speed bursts, making it highly agile in combat and evasive maneuvers.
 
