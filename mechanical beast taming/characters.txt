@@ -5,16 +5,15 @@ Ming Fan - Main Character
 	lives in ring 5
 Baishi city - Main Characters city
 Low grade spirit stones
+chanmber of commerce
 
-[Name:]Alpha
-[Race:]Mechanical Bird
-[Attribute:]Mechanical
-[Potential:]Silver
-[Level:]Black Iron 3
-[Skills:]Flying, Grabbing, Pecking, Fire breath, Fire Talons, Fire wings.
 
 Desing hub
 Forge: Automated workstations hum as robotic arms weld, mold, and assemble basic frames of the mechanical beasts.
 Assembly and intergration bay
 
-Lao Zhu : Moderator in the school competition
+Robert odech: class teacher
+Barack Juma: class mate highschool
+Mary : other S talent in the highschool
+
+
