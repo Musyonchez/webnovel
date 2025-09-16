@@ -1,0 +1,62 @@
+POWER SYSTEM - Dominion of the Wizarding World
+
+WIZARD RANKS & PROGRESSION:
+
+APPRENTICE RANKS:
+- Apprentice Rank 1: Basic mana sensing, crude spells
+- Apprentice Rank 2: Better mana control, spell models
+- Apprentice Rank 3: Stable core, ready for advancement
+
+WIZARD RANKS:
+- Rank 1 Wizard: First engraved spell (minimal mana cost, permanent access)
+- Rank 2 Wizard: Second engraved spell
+- Rank 3 Wizard: Third engraved spell
+- Rank 4 Wizard: First Law comprehension (reality manipulation begins)
+- Rank 5 Wizard: Deeper Law resonance
+- Rank 6 Wizard: Combined Laws
+- Rank 7 Wizard: Domain manifestation (portable reality)
+- Rank 8 Wizard: Domain sovereignty (anchored in reality)
+- Rank 9 Wizard: Domain world (planet-sized domains)
+
+KNIGHT RANKS:
+- Apprentice Knight: Learning breathing, muscle control
+- Low Knight: Enhanced reflexes, fast healing, burst power
+- Intermediate Knight: Faster than arrows, limited aura armor
+- High Knight: Superhuman endurance, body hardens like steel
+- Legendary Knight: Rare, aura body can match magic briefly
+
+POWER EQUIVALENCIES:
+- Low Knight = Wizard Apprentice Rank 1
+- Intermediate Knight = Wizard Apprentice Rank 2
+- High Knight = Wizard Apprentice Rank 3
+- Legendary Knight = Rank 1 Wizard (hard fight)
+
+ENGRAVED SPELL PROGRESSION:
+- Rank 1: Defense (shield, barrier, armor spell)
+- Rank 2: Offense (elemental strike, summoning weapon, destructive spell)
+- Rank 3: Utility/Assistance (mind shield, poison mist, healing burst, stealth)
+
+LAWS (Rank 4+ Understanding):
+Fire, Ice, Gravity, Life, Death, Time, Space, Cause/Effect, Decay, Pestilence, Bond/Control, etc.
+
+DOMAINS (Rank 7+ Manifestation):
+- Rank 7: Domain manifestation (personal reality)
+- Rank 8: Domain sovereignty (anchored reality)
+- Rank 9: Domain world (living reality)
+
+MANA MECHANICS:
+- Wizards = living mana batteries
+- Mana capacity increases with rank
+- Mana regeneration depends on environment
+- Mana-rich areas = passive regen, efficient casting
+- Barren zones = no regen, exhaustion
+
+MANA RECOVERY:
+- Mana Stones: Slow absorption, good for cultivation
+- Mana Potions: Instant absorption, emergency use, can cause addiction/burnout
+
+WIZARD RADIATION:
+- Absorbing mana makes wizards radioactive
+- Higher ranks = more lethal radiation
+- Kills normal humans, mutates plants/animals
+- Rank 7-9 can't stay on planet without devastating regions

@@ -1,0 +1,56 @@
+WARLOCK WIZARD SYSTEM - Dominion of the Wizarding World
+
+CONCEPT:
+Instead of body modification, wizards can bond with creature essences through ritual absorption of vital components (heart, horn, venom gland, feathers, etc.)
+
+ABSORPTION MECHANICS:
+- Ritual requires vital organs/components from target creature
+- Wizard channels mana + engraving spells to bind essence into their body
+- Partial form: safer, lower power, brief duration, low corruption
+- Full form: prolonged, high power, intense mana draw, high risk
+
+CREATURE LEVELS & LIMITS:
+- Every creature has a tier (1-9), not tied to age alone
+- Even newborn unicorns/dragons cannot be Level 1
+- Wizard's max rank cannot exceed level of absorbed creature
+- Higher-tier wizards can absorb creatures closer to their rank
+
+CREATURE WILL & CORRUPTION:
+- Every creature has a will that fights for dominance
+- Weak wizards may lose control → mindless killing machine or permanent corruption
+- Conflicting creatures (fire + water, predator + prey) → drastically reduced success
+- First creature success ~50%, adding conflicting second ~15% or lower
+
+REMOVAL/SWAPPING RULES:
+- Rank 1-2: Theoretically possible but extremely risky (15-50% success)
+- Rank 3+: Creature essence fully integrated → removal literally impossible
+- Any attempt at Rank 3+ → instant death (bones, ash, corruption)
+- Makes early choices permanent and high-stakes
+
+TRANSFORMATION SCALING:
+- Rank 1: Seconds, clumsy, partial form only
+- Rank 3: Minutes, more stable control
+- Rank 6: Hours, tactical mastery
+- Rank 9: Battlefield-scale transformations, near-perfect control
+
+MC'S CHIMERA CHOICE:
+- Chimera = amalgamation of multiple creatures (3-5 species)
+- Multiple conflicting wills normally impossible to control
+- MC's AI chip coordinates/harmonizes the wills
+- Explains why no other wizard attempts Chimera bonding
+
+SUGGESTED MC CHIMERA COMPOSITION:
+1. Predatory Feline (Tiger/Panther) → speed, claws, reflexes, predatory instincts
+2. Reptilian Serpent (Venomous Snake/Basilisk) → fangs, poison glands, constriction, jaw flexibility
+3. Insectoid/Arthropod (Scorpion/Giant Wasp) → exoskeletal plates, tail/stinger, minor swarm connection
+
+ORIGIN STORY:
+- At Rank 3, MC encounters another apprentice who created first Chimera spell
+- Original creator already mentally unstable from conflicting wills (feline + serpent)
+- MC defeats and kills the broken apprentice, takes the spell
+- Learns from the failure, uses AI chip to solve the multi-will problem
+
+PROGRESSION:
+- Rank 1-3: Partial features (claws, fangs, small exoskeletal growth)
+- Rank 4-6: More pronounced (elongated claws, chest maw, armored limbs, functional tail)
+- Rank 7-9: Full body-horror abomination with all creature traits integrated

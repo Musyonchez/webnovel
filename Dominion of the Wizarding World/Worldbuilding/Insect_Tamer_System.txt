@@ -1,0 +1,80 @@
+INSECT TAMER SYSTEM - Dominion of the Wizarding World
+
+CONCEPT:
+MC controls external insects as weapons, scouts, and environmental hazards. Synergizes with Warlock path: body wounds + insect-delivered poison/disease = lethal combo.
+
+HIVE MODE:
+Instead of selective control, MC emits mana/pheromone aura that attracts ALL insects in the area, commanding them as one massive swarm.
+
+RANK SCALING:
+
+RANK 1-3 (Apprentice):
+- Scope: Nearby area (few meters)
+- Abilities: Small swarm, scouts, minor nuisance attacks
+- Can finish off small wounded foes
+- Duration: Seconds to minutes
+- Control: Basic, sometimes erratic
+
+RANK 4-6 (Intermediate):
+- Scope: Larger radius (dozens of meters)
+- Abilities: Mid-sized swarm, can overwhelm groups
+- Deliver poison/disease en masse
+- Create environmental hazards (webs, stings, swarm pressure)
+- Duration: Minutes to an hour
+- Control: Better coordination
+
+RANK 7-9 (High-Rank):
+- Scope: Battlefield-wide (hundreds of meters)
+- Abilities: Massive hive acts as one organism
+- Can kill/immobilize multiple enemies simultaneously
+- Environmental devastation, poison clouds, disease vectors
+- Swarm follows MC across terrain barriers
+- Duration: Hours
+- Control: Near-perfect unity
+
+RISKS OF FULL HIVE MODE:
+
+1. LOSS OF CONTROL:
+- Wild/magical insects may have conflicting instincts
+- Could attack MC or allies
+- Larger swarm = harder to maintain precise control
+
+2. MANA DRAIN:
+- Constant mana required to maintain hive signal
+- Rank 1-3: Very short duration, high strain
+- Sustained use risks exhaustion or loss of Chimera control
+
+3. COLLATERAL DAMAGE:
+- Enemies + allies + environment swept in swarm
+- Risk of unintended deaths/destruction
+- Difficult to target precisely
+
+4. STRATEGIC VULNERABILITY:
+- MC focuses on swarm management → less personal defense
+- Opponents could trap/poison the swarm
+- Temporarily cuts offensive capabilities if swarm is neutralized
+
+5. REPUTATION/FEAR:
+- Full hive mode is extreme and taboo
+- Other wizards may treat MC as dangerously unstable
+- Social isolation
+
+COMBAT SYNERGY:
+- Warlock Chimera form: wounds and incapacitates enemies
+- Insect swarm: finishes off wounded enemies with poison/disease
+- Efficient killing without raw destruction
+- Area denial and battlefield control
+
+TACTICAL APPLICATIONS:
+- Reconnaissance and scouting
+- Environmental manipulation (webs, burrowing)
+- Poison/disease delivery system
+- Harassment and distraction
+- Overwhelming numerical advantage
+
+SPECIES PROGRESSION:
+- Early: Common insects (beetles, wasps, spiders)
+- Mid: Larger magical insects (giant wasps, scorpions)
+- Late: Exotic void insects, hybrid magical species
+
+Note: Insects remain external tools, not integrated into MC's body like Chimera traits.
