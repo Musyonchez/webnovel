@@ -4,9 +4,46 @@ ARC 1: TRANSMIGRATION & KNIGHT TRAINING (Chapters 1-20)
 
 PURPOSE: Introduce MC, establish knight culture, foreshadow wizarding world
 
-KEY BEATS:
-- Chapter 1: MC transmigrates into Morvain Malaroth, AI chip activates
-- Chapters 2-4: Knight training, family dynamics, AI optimization
+CHAPTER 1 DETAILED BREAKDOWN:
+
+BACKGROUND SETUP:
+- MC had AI chip from previous world (scientific breakthrough, everyone had one)
+- Chip embedded in head, fused with soul during transmigration
+- Original Morvain died from brain injury (assassin's attack - kidnapping attempt)
+- Assassin killed by father, no identifiable traces
+- Father is Baron of Kingdom of Ashenwald, High Knight rank
+- Two senior knights under father (both Intermediate Knights)
+
+CHAPTER 1 SEQUENCE:
+1. MC wakes up, chip activates, gets memories back when seeing servant girl
+2. Servant girl brings bath
+3. MC goes to courtyard, sees knights training
+4. Chip scans training: [SCANNING] - finds advanced body exercises with "something extra"
+5. MC interested, asks chip to record
+6. Sees father walking with senior knight - both look big and powerful
+7. Chip scans them: the "something small" in regular knights is much larger in them
+8. Father notices MC, motions senior knight away, approaches
+9. Father asks if brain injury has healed, MC says he's fine
+10. MC continues watching training, shows interest (father surprised - injury changed him)
+11. Father asks if MC wants to learn, MC nods
+12. Father takes MC to private yard with other senior knight
+13. Senior knight greets both, father asks him to show MC basics, then leaves
+14. Knight demonstrates stance, MC tries alone - finds it difficult
+15. MC asks chip to scan knight and correct his posture
+16. Knight watches MC go from sloppy to almost perfect in real time
+17. Knight changes stance to test MC - same result (sloppy to near-perfect)
+18. After 4th stance, MC collapses from exhaustion
+19. Knight calls servants for food, returns to own training
+20. MC asks chip to record knight while too tired to think
+21. MC eats, recovers, restarts training from first stance
+22. Pattern: push to extreme → eat → rest → restart, repeats all day
+23. Same training cycle continues for 3 days
+24. Each day shows small improvements in endurance and form
+25. Knight becomes intrigued by MC's learning speed and determination
+26. Chapter ends with MC having established foundation routine
+
+REMAINING ARC 1 BEATS:
+- Chapters 2-4: Knight training progression, AI optimization, family dynamics
 - Chapters 5-7: First combat, shows cold efficiency vs knight honor
 - Chapters 8-10: Discovery of mana potential
 - Chapters 11-13: Knight duel/trial, wins via cunning

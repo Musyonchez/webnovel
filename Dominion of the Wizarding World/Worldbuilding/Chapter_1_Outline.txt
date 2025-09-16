@@ -1,45 +1,67 @@
 CHAPTER 1 OUTLINE - Dominion of the Wizarding World
 
-CHAPTER GOAL: Establish transmigration, AI chip, knight world basics, family dynamic
+CHAPTER GOAL: Establish transmigration, chip integration, knight training discovery, family dynamics
 
-SCENE 1: THE DEATH (Earth) [800-1000 words]
-- Brief: MC dies in modern world (keep vague - overwork, accident, obsession with knowledge)
-- Tone: Quick, clinical, no sentimentality
-- Focus: The moment of death, darkness, then transition
+BACKGROUND CONTEXT:
+- MC had AI chip from previous world (scientific breakthrough, everyone had one)
+- Chip embedded in head, fused with soul during transmigration
+- Original Morvain died from brain injury (assassin kidnapping attempt)
+- Father is Baron of Kingdom of Ashenwald, High Knight rank
+- Two senior knights under father (both Intermediate Knights)
 
-SCENE 2: THE AWAKENING (Fantasy World) [1000-1200 words]
-- MC jolts awake in unfamiliar body
-- Disorientation: different hands, different room, medieval setting
-- Realizes: "This isn't my world"
-- Physical differences: Morvain's body vs his original
+SCENE 1: AWAKENING & MEMORY RECOVERY [1000-1200 words]
+- MC wakes up, disoriented in unfamiliar body
+- Chip activates: [CHIP ONLINE] - fused with soul during transmigration
+- Servant girl enters with bath supplies
+- Seeing her triggers memory recovery - MC gets original Morvain's memories
+- Learns about brain injury, assassination attempt, father's rank
 
-SCENE 3: AI CHIP ACTIVATION [800-1000 words]
-- Cold, mechanical voice in his head
-- Chip provides analysis: "New neural patterns detected. Transmigration confirmed"
-- MC tests basic functions: memory access, calculation, optimization
-- Key limitation: chip enhances learning but can't create knowledge
-- MC whispers: "So I kept my ace in the hole"
+SCENE 2: COURTYARD OBSERVATION [1000-1200 words]
+- MC goes to courtyard, sees knights training
+- Chip scans: [SCANNING] - detects advanced body exercises with "something extra"
+- MC fascinated, asks chip to record techniques
+- Sees father walking with senior knight - both imposing figures
+- Chip scan reveals: the "something small" in regular knights is much larger in them
+- Establishes knight hierarchy through visual observation
 
-SCENE 4: FAMILY DISCOVERY [1000-1200 words]
-- Servant enters, addresses him as "Young Master Morvain"
-- MC learns he's part of House Malaroth (noble knight family)
-- Father enters: stern, scarred, traditional knight bearing
-- Tension: father notices MC acting "strange" but attributes to illness
-- Subtle hints about family's "cursed" reputation
+SCENE 3: FATHER'S CONCERN [800-1000 words]
+- Father notices MC, motions senior knight away, approaches
+- Father asks if brain injury has healed, shows genuine concern
+- MC responds he's fine, continues watching training with obvious interest
+- Father surprised by MC's interest (injury changed his personality)
+- Father asks if MC wants to learn knight training
+- MC nods, father attributes change to being "spared by the injury"
 
-SCENE 5: WORLD INFORMATION GATHERING [1000-1200 words]
-- MC carefully questions family about basic world info
-- Learns: knights train body/aura, wizards exist but are feared/respected
-- Father mentions wizards live apart: "radiation kills normal folk"
-- Seeds planted: knights are limited, wizards transcend mortality
-- House Malaroth's resistance to disease/poison mentioned
+SCENE 4: PRIVATE TRAINING INTRODUCTION [1200-1500 words]
+- Father leads MC to private training yard
+- Introduces other senior knight (Intermediate rank)
+- Father asks knight to show MC basics, then leaves
+- Knight demonstrates basic stance, MC attempts alone - struggles
+- MC asks chip to scan knight and correct his posture
+- Knight watches MC transform from sloppy to near-perfect in real time
+- Knight tests with different stances - same result each time
 
-SCENE 6: FIRST TRAINING CALL [800-1000 words]
-- Father summons MC to training yard
-- MC must prove he's "recovered" from his "illness"
-- Setup for next chapter: knight abilities + AI chip optimization
-- End hook: "Show me you're still my son, Morvain"
-- MC's internal resolve: survive and rise, no matter the system
+SCENE 5: FIRST TRAINING SESSION & DETERMINATION [1200-1500 words]
+- Knight continues testing MC with 4 different stances
+- Each time: MC starts sloppy, chip corrects, achieves near-perfection
+- After 4th stance, MC collapses from physical exhaustion
+- Knight asks servants to bring MC food, returns to his own training
+- MC too tired to think, asks chip to record knight's movements
+- Food arrives, MC eats for few minutes, fatigue fades
+- MC restarts from first stance with the knight
+- Pattern established: push to extreme → eat → rest briefly → restart
+- Same cycle repeats for rest of the day
+- Shows MC's relentless determination and chip's recording function
+
+SCENE 6: THREE DAYS OF TRAINING [800-1000 words]
+- Montage of next 3 days following same pattern
+- MC pushes himself to exhaustion repeatedly
+- Each day: small improvements in endurance and form
+- Knight becomes more intrigued by MC's rapid learning and determination
+- Chip continuously records and optimizes techniques
+- By day 3, MC can complete more stances before collapsing
+- Chapter ends with MC having established foundation training routine
+- Sets up his reputation for unusual dedication and learning speed
 
 WRITING NOTES:
 - Keep transmigration explanation minimal - focus on action
